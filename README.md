@@ -22,7 +22,7 @@
       </ul>
     </li>
     <li>
-      <a href="#check-it-out">Description</a>
+      <a href="#check-it-out">Check it out!</a>
     </li>
     <li>
       <a href="#getting-started">Getting Started</a>
