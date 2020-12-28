@@ -45,7 +45,7 @@
 ## Description
 
 ![Screenshot](/image/capture.png "Screenshot")
-This was a challenge that I took in late 2018 after having introduced myself to JavaScript graphical libraries. After researching a bit about the subject I found [this](https://lodev.org/cgtutor/raycasting.html) wonderful tutorial that helped me out a lot. Some more time was spent finding ways to translate the code from C and researching more about raycasting in general, checking out GitHib repositories. This was the final result. A RayCasting Engine based on Javascript. I also made sure to mess around with the code, prototype a map editor and add some features (sounds, teleporting, breaking blocks).
+This was a challenge that I took in late 2018 after having introduced myself to JavaScript graphical libraries. After researching a bit about the subject I found [this](https://lodev.org/cgtutor/raycasting.html) wonderful tutorial that helped me out a lot. Some more time was spent finding ways to translate the code from C and researching more about raycasting in general, checking out GitHub repositories. This was the final result. A RayCasting Engine based on Javascript. I also made sure to mess around with the code, prototype a map editor and add some features (sounds, teleporting, breaking blocks).
 
 ### Built With
 
